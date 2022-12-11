@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Clone-Netflix-Firebase/static/css/main.460d9fac.css",
+    "main.js": "/React-Clone-Netflix-Firebase/static/js/main.bafae798.js",
+    "index.html": "/React-Clone-Netflix-Firebase/index.html",
+    "main.460d9fac.css.map": "/React-Clone-Netflix-Firebase/static/css/main.460d9fac.css.map",
+    "main.bafae798.js.map": "/React-Clone-Netflix-Firebase/static/js/main.bafae798.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.460d9fac.css",
+    "static/js/main.bafae798.js"
+  ]
+}
